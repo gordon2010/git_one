@@ -1,5 +1,8 @@
+import java.util.concurrent.SynchronousQueue;
 
 public class MainTest {
 
-    void main(){}
+    void main(){
+        System.out.println("");
+    }
 }
